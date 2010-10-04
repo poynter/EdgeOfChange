@@ -1,0 +1,6 @@
+[paths]
+default = http://bitbucket.org/gotoplanb/poynter-topstories
+
+[ui]
+username = Dave Stanton <davestanton.us@gmail.com>
+verbose = True

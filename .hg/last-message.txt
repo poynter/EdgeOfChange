@@ -1,0 +1,1 @@
+Five most recent top stories are now pulled from external JSON and appended to carousel as list items.
